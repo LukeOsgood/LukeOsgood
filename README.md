@@ -68,7 +68,7 @@ Upcoming internship at MatMarket
     </td>
     <td>
      <ul>
-        <li><a href = "https://www.credly.com/earner/earned/badge/2b30f014-65cb-411a-9b1b-3c32062b9e9f/public_url">Microsoft Expert Access 2019</a></li>
+        <li><a href = "https://www.credly.com/badges/2b30f014-65cb-411a-9b1b-3c32062b9e9f/public_url">Microsoft Office Specialist: Excel Associate (Office 2019)</a></li>
         <li><a href = "https://www.credly.com/badges/23f6c6da-fbcd-4a01-bedc-2f9ca4e5a540/public_url">Microsoft Expert Excel 2019</a></li>
         <li><a href = "https://www.credly.com/badges/ac1cb133-b395-4a61-a71c-8fd6ea908771/public_url">Microsoft Expert Word 2019</a></li>
         <li><a href = "https://www.credly.com/badges/e1f089c5-e148-4a30-9dc3-b6551e873dd8/public_url">Microsoft Associate PowerPoint 2019</a></li>
