@@ -69,11 +69,11 @@ Upcoming internship at MatMarket
     <td>
      <ul>
         <li><a href = "https://www.credly.com/badges/2b30f014-65cb-411a-9b1b-3c32062b9e9f/public_url">Microsoft Office Specialist: Excel Associate (Office 2019)</a></li>
-        <li><a href = "https://www.credly.com/badges/23f6c6da-fbcd-4a01-bedc-2f9ca4e5a540/public_url">Microsoft Expert Excel 2019</a></li>
-        <li><a href = "https://www.credly.com/badges/ac1cb133-b395-4a61-a71c-8fd6ea908771/public_url">Microsoft Expert Word 2019</a></li>
-        <li><a href = "https://www.credly.com/badges/e1f089c5-e148-4a30-9dc3-b6551e873dd8/public_url">Microsoft Associate PowerPoint 2019</a></li>
-        <li><a href = "https://www.credly.com/badges/7204aaa1-f592-4582-bc1c-7444f5d49cba/public_url">Microsoft Associate Outlook 2019</a></li>
-        <li><a href = "https://www.credly.com/badges/7204aaa1-f592-4582-bc1c-7444f5d49cba/public_url">Microsoft Associate Outlook 2019</a></li>
+        <li><a href = "https://www.credly.com/badges/0b0f73cf-12a3-4756-ad23-a4b7d86bb107/public_url">Microsoft Office Specialist: PowerPoint Associate (Office 2019)</a></li>
+        <li><a href = "https://www.credly.com/badges/49308e73-d4ac-49b8-a6a8-d9679993527e/public_url">Microsoft Office Specialist: Word Associate (Office 2019)</a></li>
+        <li><a href = "https://www.credly.com/badges/116d963b-ac84-43c8-86a5-042d05cc20e1/public_url">Microsoft Office Specialist: Associate (Office 2019)</a></li>
+        <li><a href = "https://www.credly.com/badges/0b1f4562-9ba4-4efd-a9dd-4db7ea8dfae4/public_url">Python Essentials 1</a></li>
+        <li><a href = "https://www.credly.com/badges/605489d0-004c-4494-9648-be6e470df6b4/public_url">[PCEP-30-02] PCEP™ – Certified Entry-Level Python Programmer</a></li>
       </ul>
     </td>
   </tr>
