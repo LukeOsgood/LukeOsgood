@@ -39,7 +39,11 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
 
 Upcoming internship at MatMarket
 
+Contruction laborer at Bourassa Construction
+
 <i>See my [LinkedIn](https://www.linkedin.com/in/luke-osgood/)</i>
+
+Email me at: luke.osgood@du.edu
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
