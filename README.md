@@ -1,5 +1,7 @@
 # Welcome! Learn More About Me and My Work  
 
+🔗 **[Visit My GitHub Pages Site](https://lukeosgood.github.io/)**  
+
 ## 📞 Contact Information  
 - 📧 Email: [luke.osgood@du.edu](mailto:luke.osgood@du.edu)  
 - 📞 Phone: +1 (603) 828-6194  
@@ -90,5 +92,3 @@ Just recently, I had the pleasure of **running the “That Dam Run 2025” half 
 
 ## 🚀 **Explore More**  
 🔗 **[Visit My GitHub Pages Site](https://lukeosgood.github.io/)**  
-
-⬆ **[Back to Top](#)**  
