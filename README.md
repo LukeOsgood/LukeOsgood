@@ -19,7 +19,7 @@ A recent class that I took at the University of Denver called **Information of I
 In this class, I created a fictional company and uploaded a mass amount of randomly generated data. I then created a **Microsoft Access database**, drawing important connections from each data table with the correct relationships. I answered important business questions such as **which customers purchased the most products** or **what equipment costs were greater than $200?** I organized all this in an extremely visually pleasing way.
 
 📊 **Example of Access Database:**  
-![Example of Access Database](Files/info%203140%20exmaple.PNG)
+![Example of Access Database](info%203140%20exmaple.PNG)
 
 Overall, I learned many important analytic technical skills, as well as a greater understanding in **business databases**.
 
@@ -37,9 +37,9 @@ My group introduced a wellness ring called **“Ping”** that optimized product
 Throughout our experience, we encountered many speed bumps, such as **website domain issues, Bluetooth capability, and application UI/UX**. We navigated these challenges by **communicating as a team, conferring with supervisors, and learning coding practices**.
 
 📂 **Presentation:**  
-[![First Slide of Presentation](files/ping%20opening%20slide.PNG)](Files/Madden%20Challenge.pptx)
+[![First Slide of Presentation](ping%20opening%20slide.PNG)](Madden%20Challenge.pptx)
 
-📥 **[Download Presentation](Files/Madden%20Challenge.pptx)**  
+📥 **[Download Presentation](Madden%20Challenge.pptx)**  
 🔗 **[Madden Challenge Description](https://daniels.du.edu/entrepreneurship/4impact-challenge/)**  
 
 ---
@@ -84,11 +84,11 @@ I love **spending time outdoors**. I enjoy everything from **skiing, hiking, and
 Just recently, I had the pleasure of **running the “That Dam Run 2025” half marathon** with some of my friends in Cherry Creek, Colorado, finishing **2nd place** in my age group!
 
 📸 **Race Day Photo:**  
-[![That Dam Run 2025](Files/that%20dam%20run.jpg)](https://sodisp.com/events/that-dam-131-10k-and-5k-2025/half-marathon/results/e_1049)
+[![That Dam Run 2025](that%20dam%20run.jpg)](https://sodisp.com/events/that-dam-131-10k-and-5k-2025/half-marathon/results/e_1049)
 
 ---
 
 ## 🚀 **Explore More**  
-🔗 **[Visit My GitHub Pages Site](https://yourusername.github.io/)**  
+🔗 **[Visit My GitHub Pages Site](https://lukeosgood.github.io/)**  
 
 ⬆ **[Back to Top](#)**  
